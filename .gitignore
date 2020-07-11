@@ -1,0 +1,4 @@
+build
+bin/*.app
+.DS_Store
+*.swp
